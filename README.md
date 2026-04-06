@@ -31,11 +31,6 @@
 
 ---
 
-## 📈 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default)
-
----
-
 ## 🌐 Connect with Me
 - 💼 LinkedIn: https://www.linkedin.com/in/pratimaram/ 
 - 📧 Email: pratimaram21@gmail.com
